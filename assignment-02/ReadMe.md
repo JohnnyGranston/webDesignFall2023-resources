@@ -1,2 +1,2 @@
-## Assignment 2
-This is my **assignment 2**
+## Markdown Elements 
+**Headings, Paragraphs, Emphasis, Lists, Links, Images, Code**
